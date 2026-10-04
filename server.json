@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.mcpcharts/mcpcharts",
+  "title": "MCP Charts",
+  "description": "Find MCP servers, skills, plugins, agents, prompts and rules for any task.",
+  "version": "1.0.0",
+  "websiteUrl": "https://mcpcharts.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcpcharts.com/mcp"
+    }
+  ]
+}
