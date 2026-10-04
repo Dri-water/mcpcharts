@@ -3,8 +3,12 @@
   "name": "com.mcpcharts/mcpcharts",
   "title": "MCP Charts",
   "description": "Find MCP servers, skills, plugins, agents, prompts and rules for any task.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://mcpcharts.com",
+  "repository": {
+    "url": "https://github.com/Dri-water/mcpcharts",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
